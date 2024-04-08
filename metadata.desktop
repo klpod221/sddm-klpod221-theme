@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=sddm-klpod221-theme
+Description=sddm-klpod221-theme
+Author=klpod221
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.0
+Website=https://github.com/klpod221/sddm-klpod221-theme
+Screenshot=Previews/preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=sddm-klpod221-theme
+Theme-API=2.0
+QtVersion=6
