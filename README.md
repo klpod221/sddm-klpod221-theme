@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>--// sddm klpod221 theme //</h1>
+  <h1>--// sddm klpod221 theme //--</h1>
   <img width="250" src="https://github.com/sddm.png">
   <br>
   <img src="https://img.shields.io/github/last-commit/klpod221/sddm-klpod221-theme?style=for-the-badge&color=ffb4a2&labelColor=201a19">
